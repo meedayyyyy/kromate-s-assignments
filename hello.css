@@ -14,8 +14,6 @@ body{
     }
 .hello{
     color: #6A2288;
-    /* font-size: 80px; */
-    /* line-height: 120px; */
     font-family: 'Londrina solid';
     font-weight: 400;
     margin: 120px 0 auto;
@@ -23,7 +21,6 @@ body{
     
 } 
 .subtext{
-    color: #6A2288;
     font-size: 20px;
     line-height: 24px;
     font-weight: 400;
