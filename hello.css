@@ -9,11 +9,13 @@ body{
     height: 100vh;
     background-color: #FEC718;
 }
-    
+    h1{
+        font-size: 120px;
+    }
 .hello{
     color: #6A2288;
-    font-size: 80px;
-    line-height: 120px;
+    /* font-size: 80px; */
+    /* line-height: 120px; */
     font-family: 'Londrina solid';
     font-weight: 400;
     margin: 120px 0 auto;
