@@ -12,7 +12,7 @@ body{
     
 .hello{
     color: #6A2288;
-    font-size: 120px;
+    font-size: 80px;
     line-height: 120px;
     font-family: 'Londrina solid';
     font-weight: 400;
@@ -20,11 +20,10 @@ body{
     text-align: center;
     
 } 
-#hello{
+.subtext{
     color: #6A2288;
     font-size: 20px;
     line-height: 24px;
-    font-family: 'Londrina solid';
     font-weight: 400;
     margin: 16px 0 40px 0;
     text-align: center;
@@ -32,7 +31,7 @@ body{
     
 } 
 
-#img{
+.eyes{
     width: 40%;
     height: 40%;
     margin: auto;
